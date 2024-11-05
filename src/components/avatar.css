@@ -1,0 +1,15 @@
+/* UserAvatar.css */
+.user-avatar {
+    background-color: rgb(138, 6, 6);
+    color: white;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: small;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
